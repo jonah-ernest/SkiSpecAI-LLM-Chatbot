@@ -77,7 +77,7 @@ All valid in-domain responses must follow a strict multiline structure.
 
 ### 1. Clone the Repository
 
-`git clone https://github.com/alanaswk/SkiSpecAI.git
+`git clone https://github.com/jonah-ernest/SkiSpecAI.git
 cd SkiSpecAI`
 
 
